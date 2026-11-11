@@ -1,0 +1,8 @@
+include README.md
+include README.zh-CN.md
+include CHANGELOG.md
+include LICENSE
+include CITATION.cff
+recursive-include src/msrspatial/data *.csv
+recursive-include tests *.py
+recursive-include examples *.py

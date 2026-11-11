@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# local artefacts
+demo_results/
+results/
+.venv/
+
+# internal planning document (not for public release)
+发布计划.md
