@@ -4,6 +4,8 @@
 
 **Spatial association of brain maps under a Moran spectral null.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139979.svg)](https://doi.org/10.5281/zenodo.24139979)
+
 `msrspatial` tests whether two sets of parcel-level brain maps are spatially
 associated, using a null model that preserves spatial autocorrelation (Moran
 Spectral Randomization) instead of permuting values at random. It is the

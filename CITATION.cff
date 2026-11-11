@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "If you use msrspatial, please cite this software."
+title: "msrspatial: spatial association of brain maps under a Moran spectral null"
 doi: "10.5281/zenodo.24139979"
-version: 0.1.0
+version: "0.1.0"
 date-released: "2026-11-11"
 license: BSD-3-Clause
 type: software
